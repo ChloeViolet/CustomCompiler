@@ -5,3 +5,4 @@ asm.ml </br>
 ast.ml </br>
 codegen.ml </br>
 parser.ml </br>
+test cases in input/
